@@ -16,12 +16,12 @@ The following notebooks are provided:
 
 - :orange_book: ``Data_preparation.ipynb``: notebook performing data processing using PZ summation;
 - :orange_book: ``Data_preparation_use_deghosting.ipynb``: notebook performing data processing using PZ summation and source-deghosting;
-- :orange_book: ``GF_one_point.ipynb``: notebook performing Green's function retrieval for one point;
-- :orange_book: ``GF_one_point_sparse.ipynb``: notebook performing Green's function retrieval for one point using sparse inversion;
-- :orange_book: ``GF_one_point_variablevel.ipynb``: notebook performing Green's function retrieval for one point when velocity model is variable;
-- :orange_book: ``GF_one_point_variablevel_sparse.ipynb``: notebook performing Green's function retrieval for one point using sparse inversion when velocity model is variable;
-- :orange_book: ``raymckimaging.ipynb``: notebook performing Green's function retrieval for an imaging area;
-- :orange_book: ``raymckimaging_variablevel.ipynb``: notebook performing Green's function retrieval for an imaging area when velocity model is variable;
+- :orange_book: ``GF_Syncline.ipynb``: notebook performing Green's function retrieval for Syncline model;
+- :orange_book: ``GF_Syncline_sparse.ipynb``: notebook performing Green's function retrieval for Syncline model using sparse inversion;
+- :orange_book: ``GF_Overthrust.ipynb``: notebook performing Green's function retrieval for Overthrust model when velocity model is variable;
+- :orange_book: ``GF_Overthrust_sparse.ipynb``: notebook performing Green's function retrieval for Overthrust model using sparse inversion when velocity model is variable;
+- :orange_book: ``raymckimaging_Synline.ipynb``: notebook performing Green's function retrieval for Syncline model in an imaging area;
+- :orange_book: ``raymckimaging_Overthrust.ipynb``: notebook performing Green's function retrieval for Overthrust model in an imaging area.
 
 ## Getting started :space_invader: :robot:
 To ensure reproducibility of the results, we suggest using the `environment.yml` file when creating an environment.
