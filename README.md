@@ -11,6 +11,10 @@ This repository is organized as follows:
 * :open_file_folder: **dataset**: folder containing data 
 * :open_file_folder: **notebooks**: set of jupyter notebooks reproducing the experiments in the paper (see below for more details);
 
+**data_for_this_test**
+- Google drive link: `https://drive.google.com/drive/folders/1FAbbypE9BNw9nQT-K79A_I8ua-OBWYf6?usp=sharing`
+
+
 ## Notebooks
 The following notebooks are provided:
 
